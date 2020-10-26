@@ -1,6 +1,7 @@
 {
   "name": "all-loops",
   "version": "1.0.0",
+  "private": true,
   "description": "Find all loops back to a node",
   "main": "index.js",
   "scripts": {
